@@ -25,6 +25,7 @@ Start an HTTP server on a specific port.
 
 ### Step 7:
 Run the Python script to serve web pages.
+f
 
 ### Step 8:
 Serve the HTML pages.
