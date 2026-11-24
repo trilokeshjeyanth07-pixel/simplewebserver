@@ -31,6 +31,41 @@ content = """
             <td><font color="black">Integrated card</font></td>
             <td><font color="black">512</font></td>
         </tr>
+        <tr>
+    <td><font color="black">2</font></td>
+    <td><font color="black">HP</font></td>
+    <td><font color="black">Intel Core i5</font></td>
+    <td><font color="black">8GB</font></td>
+    <td><font color="black">Integrated card</font></td>
+    <td><font color="black">512</font></td>
+</tr>
+
+<tr>
+    <td><font color="black">3</font></td>
+    <td><font color="black">Dell</font></td>
+    <td><font color="black">Intel Core i7</font></td>
+    <td><font color="black">16GB</font></td>
+    <td><font color="black">NVIDIA</font></td>
+    <td><font color="black">1TB</font></td>
+</tr>
+
+<tr>
+    <td><font color="black">4</font></td>
+    <td><font color="black">Lenovo</font></td>
+    <td><font color="black">Ryzen 5</font></td>
+    <td><font color="black">8GB</font></td>
+    <td><font color="black">Integrated card</font></td>
+    <td><font color="black">512</font></td>
+</tr>
+
+<tr>
+    <td><font color="black">5</font></td>
+    <td><font color="black">Asus</font></td>
+    <td><font color="black">Intel Core i7</font></td>
+    <td><font color="black">16GB</font></td>
+    <td><font color="black">NVIDIA</font></td>
+    <td><font color="black">1TB</font></td>
+</tr>
     </table>
 
 </body>
